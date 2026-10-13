@@ -1,0 +1,15 @@
+{
+    "report_date": "2026-09-29 23:22:15",
+    "critical_threats": [
+        {
+            "ip_address": "45.33.22.11",
+            "failed_attempts": 2
+        }
+    ],
+    "ignored_events": [
+        {
+            "ip_address": "104.22.15.90",
+            "failed_attempts": 1
+        }
+    ]
+}

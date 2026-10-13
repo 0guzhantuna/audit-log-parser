@@ -1,0 +1,6 @@
+[2026-09-29 22:01:45] INFO User admin logged in successfully. IP: 192.168.1.10
+[2026-09-29 22:05:12] ERROR FAILED_LOGIN attempt for user root. IP: 45.33.22.11
+[2026-09-29 22:05:14] ERROR FAILED_LOGIN attempt for user root. IP: 45.33.22.11
+[2026-09-29 22:10:01] INFO System backup completed.
+[2026-09-29 22:15:33] ERROR FAILED_LOGIN attempt for user admin. IP: 104.22.15.90
+[2026-09-29 22:18:05] INFO Database connection established.
